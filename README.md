@@ -40,14 +40,36 @@ The following metrics were evaluated:
 ####  QC Results
 
 ##### Sample 1
+
+
+
 <img width="738" height="335" src="https://github.com/user-attachments/assets/3188ca7e-5ff6-4926-bc42-31c25c444005" />
+
+---
+
 <img width="546" height="328" src="https://github.com/user-attachments/assets/06af4ad7-24a7-4332-8820-97e01c3b732c" />
+
+---
+
 <img width="728" height="325" src="https://github.com/user-attachments/assets/c18d930c-0dba-4f0e-ad97-59bdbecfc2df" />
 
+---
+
 ##### Sample 2
+
+
+
 <img width="586" height="326" src="https://github.com/user-attachments/assets/01085b7e-547d-4400-9abd-b728ae2f894f" />
+
+---
+
 <img width="735" height="339" src="https://github.com/user-attachments/assets/8feee5e4-48f2-4004-a730-f94c25cb8989" />
+
+---
+
 <img width="728" height="329" src="https://github.com/user-attachments/assets/e5b53df9-d6e2-429f-848d-898125c8cb2e" />
+
+
 
 These results confirm that the sequencing data is of sufficient quality for downstream analysis.
 
